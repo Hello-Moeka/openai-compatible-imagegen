@@ -145,9 +145,9 @@ python -m py_compile scripts/image_api.py scripts/inspect_output.py
 
 ## 来源与许可证
 
-本项目采用 [MIT License](LICENSE)。保留两份上游许可：
+本项目自身代码与维护的工作流采用 [GNU AGPL-3.0](LICENSE)（`AGPL-3.0-only`）。改编或随附的上游资料保留原有 MIT 许可与署名：
 
 - 执行流程参考 [yc-duan/api-image](https://github.com/yc-duan/api-image)，版本与边界见 [来源说明](references/api-image-source.md)，许可见 [api-image-LICENSE](references/api-image-LICENSE)。本项目不调用其 CLI。
 - 提示词参考改编自 [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill)，版本见 [提示词路由](references/prompt-router.md)，许可见 [参考库 LICENSE](references/gpt-image/LICENSE)。
 
-上游示例中的第三方品牌、人物和远程图片仍受各自来源约束；仓库中的 MIT 许可不替代第三方素材授权。
+上游示例中的第三方品牌、人物和远程图片仍受各自来源约束；本项目许可证不替代第三方素材授权。

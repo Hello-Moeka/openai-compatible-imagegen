@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: AGPL-3.0-only
+# Copyright (c) 2026 Hello-Moeka
 from __future__ import annotations
 
 import base64
